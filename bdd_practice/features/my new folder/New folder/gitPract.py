@@ -7,4 +7,3 @@ print("subtraction is",d)
 e=a*b
 print("multiplication is",e)
 f=a/b
-print("division is",f)
